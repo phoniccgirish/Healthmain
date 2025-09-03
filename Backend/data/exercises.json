@@ -1,0 +1,15 @@
+{
+  "chest": [
+    { "name": "Push-ups", "equipment": "Bodyweight" },
+    { "name": "Bench Press", "equipment": "Barbell" }
+  ],
+  "biceps": [
+    { "name": "Bicep Curl", "equipment": "Dumbbell" },
+    { "name": "Chin-ups", "equipment": "Pull-up Bar" }
+  ],
+  "abs": [
+    { "name": "Crunches", "equipment": "Bodyweight" },
+    { "name": "Plank", "equipment": "Bodyweight" }
+  ]
+  
+}
